@@ -1,6 +1,8 @@
 Rencana Konten WPU 
 
 - JavaScript
+  * ES6 
+  * Framework Javascript 
 - Python 
 - Interview
 - Vlogs 
