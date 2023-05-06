@@ -3,7 +3,11 @@ Rencana Konten WPU
 - JavaScript
   * ES6 
   * Framework Javascript 
+    ^ Vue 
+    ^ React
 - Struktur Data Dasar
 - Python 
+   ^ Machine Learning
 - Interview
 - Vlogs 
+- Piton
